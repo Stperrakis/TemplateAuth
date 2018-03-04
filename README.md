@@ -1,2 +1,2 @@
 # TemplateAuth
-Latex Template for the Auth exc
+Latex Template for the Auth exc.
